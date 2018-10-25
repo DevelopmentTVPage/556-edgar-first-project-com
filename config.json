@@ -1,0 +1,16 @@
+{
+    "title": "edgar-first-project",
+    "baseURL": "https:\/\/edgar-first-project.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "edgar-first-project.com"
+    }
+}
